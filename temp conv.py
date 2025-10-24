@@ -1,3 +1,4 @@
-c = int(input())
-f = c * 9/5 + 32
-print(f)
+celcius = int(input())
+farenheit = celcius * 9/5 + 32
+
+print(farenheit)
