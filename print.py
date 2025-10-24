@@ -1,4 +1,4 @@
-x = int(input())
+x = int(float(input()))
 if x == 0:
     print("C")
 else:
