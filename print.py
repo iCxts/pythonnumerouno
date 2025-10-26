@@ -9,7 +9,6 @@ else:
             print("B")
     else:
         print("D")
-#zz
 
 
 
